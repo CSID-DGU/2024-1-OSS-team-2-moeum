@@ -1,0 +1,14 @@
+.headerContainer {
+    background-color: #CED4DA;
+    display: flex;
+    justify-content: flex-start; /* 텍스트를 왼쪽으로 정렬 */
+    align-items: center;
+    height: 60px; /* 네모칸의 높이 조정 */
+  }
+  
+  .pageTitle {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    margin: 0;
+  }
+  

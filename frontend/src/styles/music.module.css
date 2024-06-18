@@ -1,0 +1,19 @@
+
+.box {
+    margin-top: 20px;
+}
+
+.inner {
+    background-color: gainsboro;
+    border-radius: 5px;
+    margin-bottom: 7px;
+    padding: 5px;
+}
+
+.uuid {
+    font-size: 8px;
+}
+
+.download_link {
+    color: darkcyan;
+}

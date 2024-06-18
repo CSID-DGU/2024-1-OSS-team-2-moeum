@@ -1,0 +1,66 @@
+
+.section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: var(--gray-light-1);
+}
+
+.section_mid {
+    width: 500px;
+    background-color: var(--gray-light-2);
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.title {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.form_wrap {
+    padding-top: 30px;
+}
+
+.id_area, .pw_area {
+    margin: 10px;
+}
+
+.id_area > input {
+    width: 100%;
+    padding: 10px;
+    box-shadow: 0 0 0 1px var(--gray-dark-2) inset;
+}
+
+.pw_area > input {
+    width: 100%;
+    padding: 10px;
+    box-shadow: 0 0 0 1px var(--gray-dark-2) inset;
+}
+
+.btn_area {
+    width: 100%;
+    padding: 10px;
+}
+
+.login_btn {
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0 0 0 1px var(--gray-dark-2) inset;
+}
+
+.guide {
+    margin-top: 40px;
+}
+
+.guide_1 {
+    font-weight: 100;
+}
+
+.guide_2 {
+    margin-left: 20px;
+    color: darkturquoise;
+}

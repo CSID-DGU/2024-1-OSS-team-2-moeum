@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'BMJUA-normal';
+    src: url('/fonts/BMJUA_ttf.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BMYEONSUNG-bold';
+    src: url('/fonts/BMYEONSUNG_ttf.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
